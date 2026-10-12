@@ -1,7 +1,14 @@
-Pon en esta carpeta, con estos nombres:
+Fotos de esta página. No subir JPG: exportar WebP.
+
+Formato: 900x1125 px (4:5), WebP calidad ~75, sRGB, sin marca de agua.
+El nombre del archivo es el que busca la página; si cambias el nombre, hay que editarlo en el CSV.
 
 oscura-calida.webp
-    WebP, 900x1125 (4:5), calidad ~75.
-    Contenido: Mujer de piel oscura cálida con blusa esmeralda y joyería de cobre, luz natural
+  alt: Mujer de piel oscura cálida con blusa esmeralda y joyería de cobre, luz natural
+  pie de foto: Oscura cálida. Esmeralda con cobre: saturación alta, metal cálido.
 
-La primera foto de cada página no lleva lazy: es la que se pinta pronto.
+oscura-fria.webp
+  alt: Mujer de piel oscura fría con la misma blusa esmeralda y joyería plateada
+  pie de foto: Oscura fría. La misma esmeralda con plata y un labial frío: lee más limpio.
+
+Al sustituir un archivo con el mismo nombre, la caché lo sirve hasta 7 días después.

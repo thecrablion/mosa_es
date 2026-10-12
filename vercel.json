@@ -36,5 +36,37 @@
         }
       ]
     }
+  ],
+  "redirects": [
+    {
+      "source": "/closet-capsula/piel-morena/*",
+      "destination": "/colores/piel-morena/",
+      "permanent": true
+    },
+    {
+      "source": "/cuerpo/*",
+      "destination": "/colores/",
+      "permanent": true
+    },
+    {
+      "source": "/altura/*",
+      "destination": "/colores/",
+      "permanent": true
+    },
+    {
+      "source": "/edad/*",
+      "destination": "/colores/",
+      "permanent": true
+    },
+    {
+      "source": "/closet-capsula/*",
+      "destination": "/colores/",
+      "permanent": true
+    },
+    {
+      "source": "/guadalajara/lluvias/*",
+      "destination": "/colores/",
+      "permanent": true
+    }
   ]
 }

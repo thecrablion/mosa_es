@@ -1,7 +1,0 @@
-Pon en esta carpeta, con estos nombres:
-
-capsula-morena-1.webp
-    WebP, 900x1125 (4:5), calidad ~75.
-    Contenido: Fotografía de tres de las piezas ancla de la cápsula sobre fondo neutro
-
-La primera foto de cada página no lleva lazy: es la que se pinta pronto.

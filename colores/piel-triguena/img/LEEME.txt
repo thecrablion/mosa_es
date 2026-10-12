@@ -1,7 +1,14 @@
-Pon en esta carpeta, con estos nombres:
+Fotos de esta página. No subir JPG: exportar WebP.
+
+Formato: 900x1125 px (4:5), WebP calidad ~75, sRGB, sin marca de agua.
+El nombre del archivo es el que busca la página; si cambias el nombre, hay que editarlo en el CSV.
 
 triguena-calida.webp
-    WebP, 900x1125 (4:5), calidad ~75.
-    Contenido: Mujer de piel trigueña cálida con blusa en rojo óxido, luz natural
+  alt: Mujer de piel trigueña cálida con blusa en rojo óxido, luz natural
+  pie de foto: Trigueña cálida. Rojo óxido: mismo efecto que el terracota en morena.
 
-La primera foto de cada página no lleva lazy: es la que se pinta pronto.
+triguena-oliva.webp
+  alt: Mujer de piel trigueña oliva con la misma blusa rojo óxido y el pelo oscuro
+  pie de foto: Trigueña oliva. Con el pelo oscuro cerca, el óxido levanta; sin contraste, se apaga.
+
+Al sustituir un archivo con el mismo nombre, la caché lo sirve hasta 7 días después.

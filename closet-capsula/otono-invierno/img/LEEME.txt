@@ -1,7 +1,0 @@
-Pon en esta carpeta, con estos nombres:
-
-capsula-oi-1.webp
-    WebP, 900x1125 (4:5), calidad ~75.
-    Contenido: Tres capas superpuestas de la cápsula de otoño-invierno: camiseta, punto fino y capa ligera
-
-La primera foto de cada página no lleva lazy: es la que se pinta pronto.

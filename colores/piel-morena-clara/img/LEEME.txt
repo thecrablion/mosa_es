@@ -1,0 +1,14 @@
+Fotos de esta página. No subir JPG: exportar WebP.
+
+Formato: 900x1125 px (4:5), WebP calidad ~75, sRGB, sin marca de agua.
+El nombre del archivo es el que busca la página; si cambias el nombre, hay que editarlo en el CSV.
+
+morena-clara-oscura.webp
+  alt: Mujer de piel morena clara con cabello oscuro y blusa borgoña, luz de día
+  pie de foto: Cabello oscuro, contraste alto. Borgoña y azul noche levantan: el contraste del pelo los sostiene.
+
+morena-clara-clara.webp
+  alt: La misma mujer con cabello castaño claro y la misma blusa borgoña
+  pie de foto: Cabello claro, contraste bajo. La misma blusa pesa: con menos contraste pide un tono medio.
+
+Al sustituir un archivo con el mismo nombre, la caché lo sirve hasta 7 días después.

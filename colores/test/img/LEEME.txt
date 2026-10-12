@@ -1,0 +1,14 @@
+Fotos de esta página. No subir JPG: exportar WebP.
+
+Formato: 900x1125 px (4:5), WebP calidad ~75, sRGB, sin marca de agua.
+El nombre del archivo es el que busca la página; si cambias el nombre, hay que editarlo en el CSV.
+
+test-venas.webp
+  alt: Muñeca a la luz del día con las venas de la cara interna visibles
+  pie de foto: Prueba 1, las venas. Verdes: cálido. Azules o moradas: frío. Verdes y azules a la vez: neutro. Verde grisáceo: oliva.
+
+test-blanco-marfil.webp
+  alt: La misma persona con una tela blanca junto a la cara y otra crema al lado
+  pie de foto: Prueba 3, la que más vale. El blanco que te quita la sombra de la ojera es tu blanco; el otro te hace ver cansada, y eso no se discute en fotos.
+
+Al sustituir un archivo con el mismo nombre, la caché lo sirve hasta 7 días después.

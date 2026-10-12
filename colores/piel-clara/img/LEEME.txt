@@ -1,7 +1,14 @@
-Pon en esta carpeta, con estos nombres:
+Fotos de esta página. No subir JPG: exportar WebP.
+
+Formato: 900x1125 px (4:5), WebP calidad ~75, sRGB, sin marca de agua.
+El nombre del archivo es el que busca la página; si cambias el nombre, hay que editarlo en el CSV.
 
 clara-calida.webp
-    WebP, 900x1125 (4:5), calidad ~75.
-    Contenido: Mujer de piel clara cálida con blusa durazno y joyería dorada, luz de día
+  alt: Mujer de piel clara cálida con blusa durazno y joyería dorada, luz de día
+  pie de foto: Clara cálida. Durazno y oro: el color y el metal suman en la misma dirección.
 
-La primera foto de cada página no lleva lazy: es la que se pinta pronto.
+clara-fria.webp
+  alt: Mujer de piel clara fría con la misma blusa en azul acero y joyería plateada
+  pie de foto: Clara fría. Con la misma prenda, el durazno la deja pálida; el azul acero la ordena.
+
+Al sustituir un archivo con el mismo nombre, la caché lo sirve hasta 7 días después.

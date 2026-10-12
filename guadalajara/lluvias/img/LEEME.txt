@@ -1,9 +1,0 @@
-Pon este archivo en esta carpeta, con este nombre:
-
-hero.webp
-
-WebP, 900×1125 (proporción 4:5), calidad cerca de 75.
-Mujer mexicana, Guadalajara, después de llover, junio a septiembre.
-No es un close de cuerpo. La página reserva el hueco aunque el archivo tarde.
-La primera foto de cada página no lleva lazy: es la que tiene que verse pronto.
-Esta es esa foto.

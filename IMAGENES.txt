@@ -1,60 +1,47 @@
-Lote actual · Mi Estilo Propio · colores, cuerpo, altura, cápsula
+Manifiesto de imágenes · Mi Estilo Propio
 
-WebP, 900x1125, 4:5, calidad ~75. La firma del sitio: la misma prenda en dos pieles o dos cuerpos.
-Cuando sustituyas un WebP con el mismo nombre, la caché tarda hasta 7 días.
+Actualizado: 2026-10-12 · 7 carpetas · 14 archivos por producir.
 
-altura/bajita/img/
-  bajita-155.webp
-    alt: Mujer de 1.55 m con pantalón de tiro alto y ruedo sobre el tobillo
-
-closet-capsula/clima-calido/img/
-  capsula-calido-1.webp
-    alt: Prendas de lino y algodón fino de la cápsula de clima cálido, en colores claros
-
-closet-capsula/otono-invierno/img/
-  capsula-oi-1.webp
-    alt: Tres capas superpuestas de la cápsula de otoño-invierno: camiseta, punto fino y capa ligera
-
-closet-capsula/piel-morena/img/
-  capsula-morena-1.webp
-    alt: Fotografía de tres de las piezas ancla de la cápsula sobre fondo neutro
-
-colores/piel-clara/img/
-  clara-calida.webp
+WebP, 900x1125, 4:5, calidad ~75. La firma del sitio: la misma prenda en dos pieles,
+para que la diferencia de color se vea y no se tenga que creer.
+colores/piel-clara/img/  (Colores que favorecen a la piel blanca o clara)
+  img/clara-calida.webp
     alt: Mujer de piel clara cálida con blusa durazno y joyería dorada, luz de día
+  img/clara-fria.webp
+    alt: Mujer de piel clara fría con la misma blusa en azul acero y joyería plateada
 
-colores/piel-morena/img/
-  morena-calida.webp
+colores/piel-morena/img/  (Colores que favorecen a la piel morena)
+  img/morena-calida.webp
     alt: Mujer morena cálida con blusa terracota y cinturón, luz natural de día
+  img/morena-profunda.webp
+    alt: La misma blusa terracota en una mujer de piel morena profunda, misma luz
 
-colores/piel-oscura/img/
-  oscura-calida.webp
+colores/piel-morena-clara/img/  (Colores que favorecen a la piel morena clara)
+  img/morena-clara-oscura.webp
+    alt: Mujer de piel morena clara con cabello oscuro y blusa borgoña, luz de día
+  img/morena-clara-clara.webp
+    alt: La misma mujer con cabello castaño claro y la misma blusa borgoña
+
+colores/piel-oscura/img/  (Colores que favorecen a la piel oscura y a la negra)
+  img/oscura-calida.webp
     alt: Mujer de piel oscura cálida con blusa esmeralda y joyería de cobre, luz natural
+  img/oscura-fria.webp
+    alt: Mujer de piel oscura fría con la misma blusa esmeralda y joyería plateada
 
-colores/piel-triguena/img/
-  triguena-calida.webp
+colores/piel-triguena/img/  (Colores que favorecen a la piel trigueña u oliva)
+  img/triguena-calida.webp
     alt: Mujer de piel trigueña cálida con blusa en rojo óxido, luz natural
+  img/triguena-oliva.webp
+    alt: Mujer de piel trigueña oliva con la misma blusa rojo óxido y el pelo oscuro
 
-colores/subtono-calido-o-frio/img/
-  muneca.webp
+colores/subtono-calido-o-frio/img/  (Cómo saber si tu subtono es cálido o frío)
+  img/muneca.webp
     alt: Primer plano de dos muñecas con venas visibles, luz natural, prueba de subtono
+  img/dos-blancos.webp
+    alt: La misma mujer con una tela blanco óptico y una marfil junto a la cara
 
-cuerpo/ovalo/img/
-  ovalo.webp
-    alt: Mujer de cuerpo óvalo con vestido de caída y escote en V, color en bloque
-
-cuerpo/pera/img/
-  pera.webp
-    alt: Mujer de cuerpo de pera con blazer estructurado claro y pantalón recto oscuro
-
-cuerpo/rectangular/img/
-  rectangular.webp
-    alt: Mujer de cuerpo rectangular con blazer abierto y cinturón sobre punto fino
-
-cuerpo/reloj-de-arena/img/
-  reloj-arena.webp
-    alt: Mujer reloj de arena con blusa de pinza y pantalón de tiro alto, luz de día
-
-edad/40/img/
-  40-contraste-alto.webp
-    alt: Mujer de 40 años con cabello oscuro y blazer de color profundo, contraste alto
+colores/test/img/  (Test de colorimetría en casa, en 10 minutos)
+  img/test-venas.webp
+    alt: Muñeca a la luz del día con las venas de la cara interna visibles
+  img/test-blanco-marfil.webp
+    alt: La misma persona con una tela blanca junto a la cara y otra crema al lado

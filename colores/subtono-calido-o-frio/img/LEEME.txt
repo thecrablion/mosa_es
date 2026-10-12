@@ -1,7 +1,14 @@
-Pon en esta carpeta, con estos nombres:
+Fotos de esta página. No subir JPG: exportar WebP.
+
+Formato: 900x1125 px (4:5), WebP calidad ~75, sRGB, sin marca de agua.
+El nombre del archivo es el que busca la página; si cambias el nombre, hay que editarlo en el CSV.
 
 muneca.webp
-    WebP, 900x1125 (4:5), calidad ~75.
-    Contenido: Primer plano de dos muñecas con venas visibles, luz natural, prueba de subtono
+  alt: Primer plano de dos muñecas con venas visibles, luz natural, prueba de subtono
+  pie de foto: Prueba 1. Venas verdes: cálida. Azules o moradas: fría. Verdes y azules: neutra.
 
-La primera foto de cada página no lleva lazy: es la que se pinta pronto.
+dos-blancos.webp
+  alt: La misma mujer con una tela blanco óptico y una marfil junto a la cara
+  pie de foto: Prueba 3. Blanco óptico contra marfil: gana el que te deje el cuello más limpio.
+
+Al sustituir un archivo con el mismo nombre, la caché lo sirve hasta 7 días después.

@@ -1,7 +1,14 @@
-Pon en esta carpeta, con estos nombres:
+Fotos de esta página. No subir JPG: exportar WebP.
+
+Formato: 900x1125 px (4:5), WebP calidad ~75, sRGB, sin marca de agua.
+El nombre del archivo es el que busca la página; si cambias el nombre, hay que editarlo en el CSV.
 
 morena-calida.webp
-    WebP, 900x1125 (4:5), calidad ~75.
-    Contenido: Mujer morena cálida con blusa terracota y cinturón, luz natural de día
+  alt: Mujer morena cálida con blusa terracota y cinturón, luz natural de día
+  pie de foto: Morena cálida. Terracota con oro: el color y el metal van en la misma dirección.
 
-La primera foto de cada página no lleva lazy: es la que se pinta pronto.
+morena-profunda.webp
+  alt: La misma blusa terracota en una mujer de piel morena profunda, misma luz
+  pie de foto: Morena profunda. El terracota se apaga: el mismo color pide más saturación o un vino profundo.
+
+Al sustituir un archivo con el mismo nombre, la caché lo sirve hasta 7 días después.
