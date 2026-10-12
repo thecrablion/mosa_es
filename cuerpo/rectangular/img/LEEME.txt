@@ -1,0 +1,7 @@
+Pon en esta carpeta, con estos nombres:
+
+rectangular.webp
+    WebP, 900x1125 (4:5), calidad ~75.
+    Contenido: Mujer de cuerpo rectangular con blazer abierto y cinturón sobre punto fino
+
+La primera foto de cada página no lleva lazy: es la que se pinta pronto.

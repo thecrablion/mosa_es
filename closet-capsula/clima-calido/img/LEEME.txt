@@ -1,0 +1,7 @@
+Pon en esta carpeta, con estos nombres:
+
+capsula-calido-1.webp
+    WebP, 900x1125 (4:5), calidad ~75.
+    Contenido: Prendas de lino y algodón fino de la cápsula de clima cálido, en colores claros
+
+La primera foto de cada página no lleva lazy: es la que se pinta pronto.

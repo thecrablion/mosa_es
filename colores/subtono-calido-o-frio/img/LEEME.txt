@@ -1,0 +1,7 @@
+Pon en esta carpeta, con estos nombres:
+
+muneca.webp
+    WebP, 900x1125 (4:5), calidad ~75.
+    Contenido: Primer plano de dos muñecas con venas visibles, luz natural, prueba de subtono
+
+La primera foto de cada página no lleva lazy: es la que se pinta pronto.

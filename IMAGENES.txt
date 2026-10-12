@@ -1,31 +1,60 @@
-Lote 1 · mosa.mx · Guadalajara / lluvias
-WebP, 900×1125, proporción 4:5, calidad cerca de 75.
-El hueco de la página ya está reservado (width, height y aspect-ratio).
-La primera imagen de cada URL no lleva lazy: es la que el navegador tiene que pintar pronto.
-La segunda foto de cada cuerpo sí lleva loading="lazy".
+Lote actual · Mi Estilo Propio · colores, cuerpo, altura, cápsula
 
-Si sustituyes un WebP con el mismo nombre, la caché puede tardar hasta 7 días. Para un cambio urgente, purga la caché o cambia el nombre y avísame.
+WebP, 900x1125, 4:5, calidad ~75. La firma del sitio: la misma prenda en dos pieles o dos cuerpos.
+Cuando sustituyas un WebP con el mismo nombre, la caché tarda hasta 7 días.
 
-Canonical de este lote: https://mosa.mx
-Si el dominio comprado es otro, hay que reemplazarlo antes de subir.
+altura/bajita/img/
+  bajita-155.webp
+    alt: Mujer de 1.55 m con pantalón de tiro alto y ruedo sobre el tobillo
 
-hero: guadalajara/lluvias/img/hero.webp
+closet-capsula/clima-calido/img/
+  capsula-calido-1.webp
+    alt: Prendas de lino y algodón fino de la cápsula de clima cálido, en colores claros
 
-Reloj de arena:
-  guadalajara/lluvias/reloj-de-arena/img/morena-calida.webp
-  guadalajara/lluvias/reloj-de-arena/img/morena-profunda.webp
-Rectangular:
-  guadalajara/lluvias/rectangular/img/morena-calida.webp
-  guadalajara/lluvias/rectangular/img/morena-profunda.webp
-Triángulo:
-  guadalajara/lluvias/triangulo/img/morena-calida.webp
-  guadalajara/lluvias/triangulo/img/morena-profunda.webp
-Triángulo invertido:
-  guadalajara/lluvias/triangulo-invertido/img/morena-calida.webp
-  guadalajara/lluvias/triangulo-invertido/img/morena-profunda.webp
-Óvalo:
-  guadalajara/lluvias/ovalo/img/morena-calida.webp
-  guadalajara/lluvias/ovalo/img/morena-profunda.webp
-Atlética:
-  guadalajara/lluvias/atletica/img/morena-calida.webp
-  guadalajara/lluvias/atletica/img/morena-profunda.webp
+closet-capsula/otono-invierno/img/
+  capsula-oi-1.webp
+    alt: Tres capas superpuestas de la cápsula de otoño-invierno: camiseta, punto fino y capa ligera
+
+closet-capsula/piel-morena/img/
+  capsula-morena-1.webp
+    alt: Fotografía de tres de las piezas ancla de la cápsula sobre fondo neutro
+
+colores/piel-clara/img/
+  clara-calida.webp
+    alt: Mujer de piel clara cálida con blusa durazno y joyería dorada, luz de día
+
+colores/piel-morena/img/
+  morena-calida.webp
+    alt: Mujer morena cálida con blusa terracota y cinturón, luz natural de día
+
+colores/piel-oscura/img/
+  oscura-calida.webp
+    alt: Mujer de piel oscura cálida con blusa esmeralda y joyería de cobre, luz natural
+
+colores/piel-triguena/img/
+  triguena-calida.webp
+    alt: Mujer de piel trigueña cálida con blusa en rojo óxido, luz natural
+
+colores/subtono-calido-o-frio/img/
+  muneca.webp
+    alt: Primer plano de dos muñecas con venas visibles, luz natural, prueba de subtono
+
+cuerpo/ovalo/img/
+  ovalo.webp
+    alt: Mujer de cuerpo óvalo con vestido de caída y escote en V, color en bloque
+
+cuerpo/pera/img/
+  pera.webp
+    alt: Mujer de cuerpo de pera con blazer estructurado claro y pantalón recto oscuro
+
+cuerpo/rectangular/img/
+  rectangular.webp
+    alt: Mujer de cuerpo rectangular con blazer abierto y cinturón sobre punto fino
+
+cuerpo/reloj-de-arena/img/
+  reloj-arena.webp
+    alt: Mujer reloj de arena con blusa de pinza y pantalón de tiro alto, luz de día
+
+edad/40/img/
+  40-contraste-alto.webp
+    alt: Mujer de 40 años con cabello oscuro y blazer de color profundo, contraste alto

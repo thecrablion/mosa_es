@@ -1,0 +1,7 @@
+Pon en esta carpeta, con estos nombres:
+
+oscura-calida.webp
+    WebP, 900x1125 (4:5), calidad ~75.
+    Contenido: Mujer de piel oscura cálida con blusa esmeralda y joyería de cobre, luz natural
+
+La primera foto de cada página no lleva lazy: es la que se pinta pronto.

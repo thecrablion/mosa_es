@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-# sitemap de esta celda (Guadalajara × lluvias): solo estas URLs
-Sitemap: https://mosa.mx/sitemap-lluvias.xml
+# Un sitemap por familia de páginas: así Search Console dice qué familia entra y cuál no
+Sitemap: https://miestilopropio.com/sitemap.xml
