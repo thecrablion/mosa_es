@@ -1,0 +1,11 @@
+WebP, 900×1125 (4:5), calidad cerca de 75. Nombres exactos:
+
+morena-calida.webp
+morena-profunda.webp
+
+Misma modelo, hombro recto, poco talle, 1.58 m. Sin volante.
+morena-calida.webp: olivo suave, pantalón recto.
+morena-profunda.webp: camisa crudo, pantalón recto, impermeable a la cadera.
+
+morena-calida.webp es la primera foto: se pide enseguida.
+morena-profunda.webp lleva loading=lazy. El hueco 4:5 ya está reservado.

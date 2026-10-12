@@ -1,0 +1,31 @@
+Lote 1 · mosa.mx · Guadalajara / lluvias
+WebP, 900×1125, proporción 4:5, calidad cerca de 75.
+El hueco de la página ya está reservado (width, height y aspect-ratio).
+La primera imagen de cada URL no lleva lazy: es la que el navegador tiene que pintar pronto.
+La segunda foto de cada cuerpo sí lleva loading="lazy".
+
+Si sustituyes un WebP con el mismo nombre, la caché puede tardar hasta 7 días. Para un cambio urgente, purga la caché o cambia el nombre y avísame.
+
+Canonical de este lote: https://mosa.mx
+Si el dominio comprado es otro, hay que reemplazarlo antes de subir.
+
+hero: guadalajara/lluvias/img/hero.webp
+
+Reloj de arena:
+  guadalajara/lluvias/reloj-de-arena/img/morena-calida.webp
+  guadalajara/lluvias/reloj-de-arena/img/morena-profunda.webp
+Rectangular:
+  guadalajara/lluvias/rectangular/img/morena-calida.webp
+  guadalajara/lluvias/rectangular/img/morena-profunda.webp
+Triángulo:
+  guadalajara/lluvias/triangulo/img/morena-calida.webp
+  guadalajara/lluvias/triangulo/img/morena-profunda.webp
+Triángulo invertido:
+  guadalajara/lluvias/triangulo-invertido/img/morena-calida.webp
+  guadalajara/lluvias/triangulo-invertido/img/morena-profunda.webp
+Óvalo:
+  guadalajara/lluvias/ovalo/img/morena-calida.webp
+  guadalajara/lluvias/ovalo/img/morena-profunda.webp
+Atlética:
+  guadalajara/lluvias/atletica/img/morena-calida.webp
+  guadalajara/lluvias/atletica/img/morena-profunda.webp

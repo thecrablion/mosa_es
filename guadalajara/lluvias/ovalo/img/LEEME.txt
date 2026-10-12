@@ -1,0 +1,11 @@
+WebP, 900×1125 (4:5), calidad cerca de 75. Nombres exactos:
+
+morena-calida.webp
+morena-profunda.webp
+
+Misma modelo, volumen al centro, 1.58 m. Sin cinturón.
+morena-calida.webp: olivo de una pieza.
+morena-profunda.webp: vino de una pieza. Sin hebilla de contraste.
+
+morena-calida.webp es la primera foto: se pide enseguida.
+morena-profunda.webp lleva loading=lazy. El hueco 4:5 ya está reservado.

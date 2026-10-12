@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# sitemap de esta celda (Guadalajara × lluvias): solo estas URLs
+Sitemap: https://mosa.mx/sitemap-lluvias.xml

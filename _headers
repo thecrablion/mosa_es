@@ -1,0 +1,26 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: SAMEORIGIN
+  Cache-Control: public, max-age=3600
+
+/guadalajara/lluvias/img/*
+  Cache-Control: public, max-age=604800
+
+/guadalajara/lluvias/reloj-de-arena/img/*
+  Cache-Control: public, max-age=604800
+
+/guadalajara/lluvias/rectangular/img/*
+  Cache-Control: public, max-age=604800
+
+/guadalajara/lluvias/triangulo/img/*
+  Cache-Control: public, max-age=604800
+
+/guadalajara/lluvias/triangulo-invertido/img/*
+  Cache-Control: public, max-age=604800
+
+/guadalajara/lluvias/ovalo/img/*
+  Cache-Control: public, max-age=604800
+
+/guadalajara/lluvias/atletica/img/*
+  Cache-Control: public, max-age=604800

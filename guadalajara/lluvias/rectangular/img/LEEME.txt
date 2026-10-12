@@ -1,0 +1,11 @@
+WebP, 900×1125 (4:5), calidad cerca de 75. Nombres exactos:
+
+morena-calida.webp
+morena-profunda.webp
+
+Misma modelo, cuerpo rectangular, 1.58 m.
+morena-calida.webp: piel morena cálida, columna olivo, sin cinturón.
+morena-profunda.webp: piel profunda, camisa crudo y pantalón vino, sin hebilla.
+
+morena-calida.webp es la primera foto: se pide enseguida.
+morena-profunda.webp lleva loading=lazy. El hueco 4:5 ya está reservado.
