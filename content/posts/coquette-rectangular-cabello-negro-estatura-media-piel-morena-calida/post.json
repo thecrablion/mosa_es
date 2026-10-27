@@ -1,0 +1,18 @@
+{
+  "slug": "coquette-rectangular-cabello-negro-estatura-media-piel-morena-calida",
+  "title": "Armario coquette: piel morena cálida y cuerpo rectangular",
+  "description": "Crea un armario coquette para piel morena cálida, cabello negro y cuerpo rectangular: paleta, cinco looks y prendas para una estatura de 1.62 m.",
+  "h1": "Armario coquette para piel morena cálida y cuerpo rectangular",
+  "intro": "Cabello negro azabache, estatura media y detalles románticos: una cápsula pensada para combinar tus prendas y definir la cintura con comodidad.",
+  "status": "draft",
+  "date": "2026-10-24",
+  "profile": {
+    "body": "rectangular",
+    "hair": "negro-azabache",
+    "height": "media",
+    "skin": "morena-calida"
+  },
+  "cover": "img/look-1.webp",
+  "cover_alt": "Look coquette con cárdigan rosa, blusa marfil y jeans oscuros",
+  "category": "Armario coquette"
+}

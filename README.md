@@ -1,3 +1,11 @@
+# Flujo actual: posts diarios revisados
+
+La documentación vigente está en [WORKFLOW.md](WORKFLOW.md) y las instrucciones para la IA en [AGENTS.md](AGENTS.md). Los scripts están en `scripts/`. Construye `dist` antes de desplegar; la vista previa con borradores está en `dist-preview`.
+
+El contenido siguiente se conserva como historial del sitio original; sus referencias a scripts y CSV que no estaban en el repositorio no describen el flujo nuevo. La publicación diaria solicitada sustituye la antigua regla de publicar solo por lotes.
+
+---
+
 # miestilopropio.com
 
 Sitio estático. No hay build ni dependencias para subirlo: los archivos HTML ya están hechos.

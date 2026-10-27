@@ -4,3 +4,14 @@
 .assetsignore
 wrangler.jsonc
 IMAGENES.txt
+content/
+scripts/
+templates/
+reports/
+tests/
+public/
+dist-preview/
+README.md
+WORKFLOW.md
+AGENTS.md
+requirements.txt

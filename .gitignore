@@ -1,3 +1,11 @@
 .DS_Store
 Thumbs.db
 .wrangler/
+dist/
+dist-preview/
+reports/
+__pycache__/
+.venv/
+# Material editorial privado: conservar localmente, fuera del repositorio público.
+content/posts/*/source.txt
+content/posts/*/editorial.md
