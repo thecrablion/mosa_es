@@ -1,7 +1,10 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "miestilopropio",
+  "name": "mosa-es",
   "compatibility_date": "2026-10-11",
+  "build": {
+    "command": "python scripts/site.py build && python scripts/verificar.py dist"
+  },
   "assets": {
     "directory": "dist",
     "not_found_handling": "404-page",

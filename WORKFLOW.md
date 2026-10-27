@@ -56,9 +56,9 @@ python scripts/site.py status SLUG published
 python scripts/site.py build
 python scripts/verificar.py dist --report reports/production.json
 ```
-Después, revisar cambios y subir a GitHub/desplegar solo con autorización. **No se ha publicado este ejemplo.**
+Después, revisar cambios y subir a GitHub/desplegar solo con autorización. La guía coquette tiene publicación autorizada y su estado es `published`; la presencia en el dominio se verifica después del despliegue.
 
-Cloudflare Workers Assets: `wrangler.jsonc` apunta ahora a `dist`; construir y verificar antes de desplegar. Cloudflare Pages: carpeta de salida `dist`, comando de compilación `python3 scripts/site.py build && python3 scripts/verificar.py dist`. No requiere Pillow en Cloudflare si los WebP ya están versionados. Estas opciones se documentan; no se han modificado los ajustes de tu cuenta.
+Cloudflare Workers Assets: el Worker conectado es `mosa-es` y `wrangler.jsonc` sirve exclusivamente `dist`. El comando de compilación es `python scripts/site.py build && python scripts/verificar.py dist`; también debe configurarse en Workers Builds. El despliegue utiliza `npx wrangler deploy`. Cloudflare Pages: carpeta de salida `dist`, comando de compilación `python3 scripts/site.py build && python3 scripts/verificar.py dist`. No requiere Pillow en Cloudflare si los WebP ya están versionados.
 
 ## Actualizar o quitar
 Editar body.html/post.json/imágenes y reconstruir. Para retirar sin borrar las fuentes:
